@@ -44,10 +44,7 @@ An attractive **Bootstrap-based UI** for an online electronics store with produc
 ---
 
 
-### 📊 GitHub Stats
-![Dhruvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurohitDhruvika007&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PurohitDhruvika007&layout=compact&theme=radical)
+### languages known
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,9 +59,10 @@ An attractive **Bootstrap-based UI** for an online electronics store with produc
 ---
 
 ### 🌍 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruvika-purohit-09b69a363/)
- 
-- 📧 Email: purohitdhruvika87@gmail.com
+-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruvika-purohit-09b69a363/)
+
+-- [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purohitdhruvika87@gmail.com)
+
 ---
 
  Thanks for stopping by! Feel free to check out my work or reach out 😊 
