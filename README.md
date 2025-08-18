@@ -62,7 +62,8 @@ An attractive **Bootstrap-based UI** for an online electronics store with produc
 ---
 
 ### 🌍 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/dhruvika-purohit-09b69a363)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhruvika-purohit-09b69a363/)
+ 
 - 📧 Email: purohitdhruvika87@gmail.com
 ---
 
