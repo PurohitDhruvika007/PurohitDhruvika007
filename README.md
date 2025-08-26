@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🎯 Currently learning **React, SQL, and Computer Vision**  
+- 🎯 Currently learning **React, python, and Computer Vision**  
 - 💻 Building projects with **HTML, CSS, JavaScript, Bootstrap, React**  
 - 🧠 Exploring **AI, Python, and Web development**  
 - 📚 Open to **internships, collaborations, and open-source contributions**  
