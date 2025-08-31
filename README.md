@@ -14,7 +14,7 @@
 
 ### 🔧 Tech Stack
 - **Frontend:** HTML | CSS | Bootstrap | JavaScript | React  
-- **Backend:** SQL, Python (basics)  
+- **Backend:** Python (basics)  
 - **Tools:** Git | GitHub | VS Code | Pandas  
 
 ---
