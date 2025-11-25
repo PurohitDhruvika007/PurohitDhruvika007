@@ -21,13 +21,13 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 Weather App  
-A styled weather website using **HTML, CSS, Bootstrap, JavaScript** that displays temperature, humidity, and weather details.  
-👉 [View Project](https://github.com/PurohitDhruvika007/DP-Javascript/tree/main/API/exam/wheather)
+### 🔹 Restaurant POS  
+A complete restaurant management having employee dashboard and manager dashboard built using **HTML, CSS, JavaScript,React**.  
+👉 [View Project](https://github.com/PurohitDhruvika007/React_JS/tree/main/restaurant)
 
-### 🔹 OMDb Movie Search  
-Search movies and get full details (poster, rating, release year) using the **OMDb API**.  
-👉 [View Project](https://github.com/PurohitDhruvika007/DP-Javascript/tree/main/API/day2/OMDB)
+### 🔹 Chat Application  
+A real-time chat app using **React, Firebase, Redux**, with features like **send, edit, delete, live sync, and WhatsApp-style UI**.  
+👉 [View Project](https://github.com/PurohitDhruvika007/React_JS/tree/main/chat-app)
 
 ### 🔹 Country Info Finder  
 Search for any country and view its **flag, name, and capital**.  
