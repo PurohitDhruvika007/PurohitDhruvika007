@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🎯 Currently learning **React, python, and Computer Vision**  
+- 🎯 Currently learning **nodejs, python,java and Computer Vision**  
 - 💻 Building projects with **HTML, CSS, JavaScript, Bootstrap, React**  
 - 🧠 Exploring **AI, Python, and Web development**  
 - 📚 Open to **internships, collaborations, and open-source contributions**  
@@ -14,7 +14,7 @@
 
 ### 🔧 Tech Stack
 - **Frontend:** HTML | CSS | Bootstrap | JavaScript | React  
-- **Backend:** Python (basics)  
+- **Backend:** Python | NodeJS
 - **Tools:** Git | GitHub | VS Code | Pandas  
 
 ---
@@ -54,6 +54,9 @@ An attractive **Bootstrap-based UI** for an online electronics store with produc
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 ---
