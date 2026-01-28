@@ -18,6 +18,17 @@
 - **Tools:** Git | GitHub | VS Code | Pandas  
 
 ---
+### 🎯 Career Objective
+
+<p>Aspiring Full-Stack Developer with a strong foundation in Web Development and AI,
+seeking opportunities to apply skills in real-world projects and grow as a software engineer.</p>
+
+---
+### 🏆 Achievements
+- Built multiple full-stack and frontend projects independently
+- Hands-on experience with MERN stack authentication systems
+- Strong problem-solving skills with continuous learning mindset
+---
 
 ## 🚀 Featured Projects  
 
@@ -37,9 +48,11 @@ Search for any country and view its **flag, name, and capital**.
 A **multi-page travel website** showcasing destinations, galleries, and travel details.  
 👉 [View Project](https://github.com/PurohitDhruvika007/React_JS/tree/main/travel-project)
 
-### 🔹 E-Commerce (Electronics Store)  
-An attractive **Bootstrap-based UI** for an online electronics store with product cards and cart system.  
-👉 [View Project](https://github.com/PurohitDhruvika007/DP-Javascript/tree/main/DOM/electronic_website)
+### 🔹 Blog Management System (MERN Stack)
+A **full-stack MERN** blog platform with OTP-based authentication and role-based access.
+Users can register, verify accounts, log in, and manage their own blogs, while visitors can read published content.
+Features a modern UI, image upload support, and a secure backend API.  
+👉 [View Project](https://github.com/PurohitDhruvika007/NodeJS/tree/main/Blog_project)
 
 ---
 
@@ -56,6 +69,13 @@ An attractive **Bootstrap-based UI** for an online electronics store with produc
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 
 
